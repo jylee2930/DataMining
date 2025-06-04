@@ -5,6 +5,7 @@ for(i in 2:a){
   if(a %% i == 0)
     prime = FALSE
 }
+![Image](https://github.com/user-attachments/assets/fdf08e71-56c0-4e06-9687-534050611da1)
 if (prime == TRUE){
   print("소수")
 } else{
